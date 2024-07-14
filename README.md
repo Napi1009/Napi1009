@@ -4,8 +4,6 @@
 </p>
 
 
-<br>
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=napi1009&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<!---
