@@ -5,7 +5,7 @@
 
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=nayanapabasara&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=TMNPThennakoon&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
@@ -40,9 +40,9 @@
 
 ### Nayana's GitHub Activity Graph
 
-| ![Nayana's github stats](https://github-readme-stats.vercel.app/api?username=nayanapabasara&show_icons=true&theme=tokyonight) | ![Nayana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayanapabasara&theme=tokyonight) |
+| ![Nayana's github stats](https://github-readme-stats.vercel.app/api?username=TMNPThennakoon&show_icons=true&theme=tokyonight) | ![Nayana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TMNPThennakoon&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanapabasara&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=nayanapabasara&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TMNPThennakoon&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=TMNPThennakoon&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
 <h3 align="left">Connect with me:</h3>
